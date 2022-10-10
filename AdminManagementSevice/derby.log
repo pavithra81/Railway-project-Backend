@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 07 11:21:45 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-b0ff-e960-00000118a608 
+on database directory memory:C:\Users\pavit\OneDrive\Desktop\updated train management ms\AdminManagementSevice\438dadc7-5c12-405f-bf14-976247fef423 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3764951d 
+Loaded from file:/C:/Users/pavit/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=15.0.8+4-MTS
+user.dir=C:\Users\pavit\OneDrive\Desktop\updated train management ms\AdminManagementSevice
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
