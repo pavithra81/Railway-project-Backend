@@ -1,0 +1,21 @@
+paytm.payment:
+  sandbox:
+    merchantId: {tPUzjc70271343093119}
+    merchantKey: {KPVQcG88coOcc7Vy}
+    channelId: WEB
+    website: WEBSTAGING
+    industryTypeId: Retail
+    paytmUrl:  https://securegw-stage.paytm.in/order/process
+    callbackUrl: http://localhost:9090/pgresponse
+
+
+
+
+  spring:
+    application:
+      name: Payment
+
+
+  eureka:
+    instance:
+      hostname: localhost
